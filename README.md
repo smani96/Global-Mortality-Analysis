@@ -61,6 +61,47 @@ Analyzes violence indicators, conflict-related mortality, and changes in conflic
 - Global Violence Map
 - Conflict Deaths Trend
 
+## 🖼️ Dashboard Preview
+
+### Global Disease Burden Dashboard
+
+![Global Disease Burden Dashboard](Screenshots/Global_Disease_Burden_Dashboard.png)
+
+### Global Health Risk Dashboard
+
+![Global Health Risk Dashboard](Screenshots/Global_Health_Risk_Dashboard.png)
+
+### Global Violence and Conflict Dashboard
+
+![Global Violence and Conflict Dashboard](Screenshots/Global_Violence_Conflict_Dashboard.png)
+
+### 1. Global Disease Burden Dashboard
+
+Analyzes major causes of death, disease trends over time, and geographic disease burden.
+
+**Key visualizations:**
+- Top Causes of Death
+- Disease Trend Analysis
+- Global Disease Map
+
+### 2. Global Health Risk Dashboard
+
+Compares major health-risk categories and examines relationships between diabetes and cardiovascular mortality.
+
+**Key visualizations:**
+- Disease Category Comparison
+- Diabetes vs Cardiovascular Deaths
+- Regional Health Risk Map
+
+### 3. Global Violence and Conflict Dashboard
+
+Analyzes violence indicators, conflict-related mortality, and changes in conflict deaths over time.
+
+**Key visualizations:**
+- Violence Indicators
+- Global Violence Map
+- Conflict Deaths Trend
+
 ## 🔍 Key Insights
 
 - Lifestyle diseases represent the largest mortality category in the analysis.
